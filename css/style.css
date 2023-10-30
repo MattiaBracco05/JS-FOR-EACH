@@ -1,0 +1,17 @@
+.pulsante {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15vh;
+    height: 5vh;
+    margin-top: 1vh;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    cursor: grab;
+}
+
+.pulsante:hover {
+    background-color: red;
+    color: black;
+}
